@@ -1,0 +1,21 @@
+int @a;
+@a := 15 ;
+constFloat @x := 3,01 ;
+int @main()
+LET'S_GO
+    int @i ;
+    Eval ( ana ) ;
+   int @a;
+   @badvar := 10;
+    @i := ==(5, 10);
+   @badFunctie(@b);
+    int @c ;
+    @c := 10;
+    int @z[10];
+LET'S_STOP
+void @functie()
+bool @ok;
+void @functie()
+LET'S_GO
+    @ok := true;
+LET'S_STOP

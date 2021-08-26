@@ -1,0 +1,32 @@
+int @a;
+struct &tipuri {float @b , char @s[10] , int @t[5] };
+@a := 15 ;
+int @main()
+LET'S_GO
+    int @i ;
+    constInt @x := 10;
+    @i := ==(5, 10);
+    if (<(@a, 10)) then { @a :=10;}  ;
+    for (@i := 0 ~  < (@i , 10) ~ @i := + (@i , 1 ))
+    {
+         @a := +(@a , @i);
+    };
+    &tipuri @t1;
+    LET'S_GO
+        int @sum;
+        @sum := 0;
+        char @sir := ioana;
+        constChar @d := ana;
+        @sir->strcat<- @d;
+        int @cv := 12;
+    LET'S_STOP
+    int @c ;
+    @c := 10;
+    int @z[10];
+    @z[5] := 18;
+LET'S_STOP
+bool @ok;
+void @functie()
+LET'S_GO
+    @ok := true;
+LET'S_STOP
